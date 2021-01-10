@@ -2,9 +2,17 @@
 [ООП и паттерны проектирования в Python](https://coursera.org/share/4853201bdd4df854b7034f404d896c50)  
 
 [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MLGTLU7SMPF8)  
-[Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/PJYAANCMNPU6)
+[Getting Started with Python](https://coursera.org/share/2c12a7beaf359438c42436f6a1531d8e)  
+[Python Data Structures](https://coursera.org/share/c8684cedc1390873cecf70a8b43158a4)  
+[Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/PJYAANCMNPU6)  
+[Using Databases with Python](https://coursera.org/share/5af1d961e74a1f49a2c960813deacdec)  
+[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/959f8ef65cd57d28397c7f64ee93f29c)  
 
 [Python 3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MMKYPJ3UEJN6)  
+[Python Basics](https://coursera.org/share/1ee9f75b9df3fb3ad6556e35bc47df1e)  
+[Python Functions, Files, and Dictionaries](https://coursera.org/share/63c89435613d96017adb06e3725c8308)  
+[Data Collection and Processing with Python](https://coursera.org/share/1d090bff6ac12f77134a2b27efc5860f)  
+[Python Classes and Inheritance](https://coursera.org/share/c1dfb5c5234011b8d7612c9ae1d20c05)  
 [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/account/accomplishments/certificate/R7DNDQJ7LKTZ)  
 
 [Statistics with Python Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TUXMT65MEUCB)  
@@ -12,5 +20,5 @@
 [Inferential Statistical Analysis with Python](https://coursera.org/share/5100e9aafbc5e881325e6e8787ba922e)  
 [Fitting Statistical Models to Data with Python](https://www.coursera.org/account/accomplishments/certificate/PREX2YAVR75R)  
 
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
-[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/KKKYGX524EW9)
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)  
+[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/KKKYGX524EW9)  
