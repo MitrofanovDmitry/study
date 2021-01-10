@@ -4,6 +4,14 @@
 [Создание Web-сервисов на Python](https://www.coursera.org/learn/python-for-web)  
 [Python для анализа данных](https://www.coursera.org/learn/python-for-data-science)  
 
+[**Машинное обучение и анализ данных Specialization**](https://www.coursera.org/specializations/machine-learning-data-analysis)  
+[Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)  
+[Обучение на размеченных данных](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)  
+[Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)  
+[Построение выводов по данным](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)  
+[Прикладные задачи анализа данных](https://www.coursera.org/learn/data-analysis-applications)  
+[Анализ данных: финальный проект](https://www.coursera.org/learn/data-analysis-project)  
+
 [**Искусство разработки на современном C++ Specialization**](https://www.coursera.org/specializations/c-plus-plus-modern-development)  
 [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white?specialization=c-plus-plus-modern-development)  
 [Основы разработки на C++: жёлтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow?specialization=c-plus-plus-modern-development)  
