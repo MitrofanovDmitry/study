@@ -53,13 +53,10 @@ Other: gerund & infinitive, impersonal constructions, hypothetical past, quoted 
 
 IPA (International Phonetic Alphabet)  
 
-
 Pace of speech  
-• 150 words/min   
-   (2.5 words/sec)  
+• 150 words/min (2.5 words/sec)  
 • No pauses between words      
   (stretching vowels)  
-
 
 Place of Articulation  
 • bilabial - made with both lips  
@@ -70,7 +67,6 @@ Place of Articulation
 • velar - pronounced with the back part of the tongue against the soft palate (the velum)  
 • glottal - produced by obstructing airflow in the vocal tract (or, more precisely, the glottis)  
 
-
 Manner of Articulation  
 • stop - at the beginning the tongue or lips briefly block the air from leaving the vocal tract  
 • fricative - produced by bringing the mouth into position to block the passage of the airstream, but not making complete closure, so that air moving through the mouth generates audible friction  
@@ -79,11 +75,9 @@ Manner of Articulation
 • liquid - the tongue produces a partial closure in the mouth, resulting in a resonant, vowel-like consonant  
 • glide - phonetically similar to a vowel sound but functions as the syllable boundary  
 
-
 Phonation  
 • voiceless - the vocal cords do not vibrate while producing it  
 • voiced - the vocal cords vibrate while producing it  
-
 
 Vowels (all voiced)  
 / ˈ/ primary stress   
@@ -105,7 +99,6 @@ Vowels (all voiced)
 /oʊ/ boat  
 /ɔɪ/ boy  
 
-
 Consonants  
 /t̬/ better little party (soft t, fast d)  
 /ʔ/ written (glottal t)  
@@ -125,7 +118,6 @@ Consonants
 /m/ make  
 /l/ late  
 /y/ yes (j)  
-
 
 Place of Articulation  
 Bilabial (p, b, m, w)  
