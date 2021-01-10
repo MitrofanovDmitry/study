@@ -19,6 +19,11 @@
 [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown?specialization=c-plus-plus-modern-development)  
 [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black)  
 
+[**Statistics with Python Specialization**](https://www.coursera.org/specializations/statistics-with-python)  
+[Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  
+[Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)  
+[Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)  
+
 [**Applied Data Science with Python Specialization**](https://www.coursera.org/specializations/data-science-python)  
 [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)  
 [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)  
