@@ -26,6 +26,13 @@
 [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)  
 [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)  
 
+[**Python 3 Programming Specialization**](https://www.coursera.org/specializations/python-3-programming)  
+[Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)  
+[Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming)  
+[Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming)  
+[Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming)  
+[Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project)  
+
 [**Statistics with Python Specialization**](https://www.coursera.org/specializations/statistics-with-python)  
 [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  
 [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)  
