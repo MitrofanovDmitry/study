@@ -38,3 +38,5 @@
 [Python: XML, JSON, and the Web](https://www.linkedin.com/learning/python-xml-json-and-the-web)  
 [Using Python with Excel](https://www.linkedin.com/learning/using-python-with-excel)  
 
+[**Become a Software Developer**](https://www.linkedin.com/learning/paths/become-a-software-developer)  
+[**Become a Data Analyst**](https://www.linkedin.com/learning/paths/become-a-data-analyst)  
