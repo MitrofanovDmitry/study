@@ -52,5 +52,6 @@
 [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)  
 [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)  
 
+[Problem Solving Using Computational Thinking (Michigan)](https://www.coursera.org/learn/compthinking)  
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)  
 [Learning How To Learn for Youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
