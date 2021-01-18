@@ -14,7 +14,7 @@
 [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)  
 [Тимофей Хирьянов](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw)  
 
-[Happy Hope](https://www.youtube.com/c/HappyHopeEnglish)
+[Happy Hope](https://www.youtube.com/c/HappyHopeEnglish)  
 [Bob The Canadian](https://www.youtube.com/c/LearnEnglishwithBobtheCanadian)  
 [Canguro English](https://www.youtube.com/c/Canguroenglish)  
 [Culips English Podcast](https://www.youtube.com/user/CulipsESLPodcast)  
