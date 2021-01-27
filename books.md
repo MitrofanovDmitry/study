@@ -1,3 +1,5 @@
+Python for Data Analysis by Wes McKinney (2018)
+
 You Are a Badass by Jen Sincero  
 Dear Stranger, I Know How You Feel by Ashish Bagrecha  
 Solving the Procrastination Puzzle by Timothy A. Pychyl  
