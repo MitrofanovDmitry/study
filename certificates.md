@@ -1,5 +1,7 @@
 [EF SET English Certificate 77/100 (C2 Proficient)](https://www.efset.org/cert/k2nzen)  
 
+[Learning How To Learn for Youth](https://coursera.org/share/36600205deb7c2f1451f36c1ff27f142)  
+
 [**Программирование на Python Specialization**](https://www.coursera.org/specializations/programming-in-python)  
 [Погружение в Python](https://coursera.org/share/25ebe255ef1f76fbc199dec43d664296)  
 [ООП и паттерны проектирования в Python](https://coursera.org/share/4853201bdd4df854b7034f404d896c50)  
