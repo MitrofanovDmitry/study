@@ -1,3 +1,4 @@
+Python Data Science Handbook by Jake VanderPlas
 Python for Data Analysis by Wes McKinney (2018)
 
 You Are a Badass by Jen Sincero  

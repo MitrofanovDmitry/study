@@ -27,3 +27,6 @@
 
 [**Applied Data Science with Python**](https://www.coursera.org/specializations/data-science-python)  
 [Introduction to Data Science in Python](https://coursera.org/share/105a641bd2f6047f4f27640d70e7ff1c)  
+
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  
+[Neural Networks and Deep Learning](https://coursera.org/share/bbef9f064940cde68053ee0ff99faf8e)  
