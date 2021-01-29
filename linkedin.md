@@ -1,4 +1,6 @@
+[Python: Programming Efficiently (Michele Vallisneri)](https://www.linkedin.com/learning/python-programming-efficiently-2)  
 [Python Data Analysis (Michele Vallisneri)](https://www.linkedin.com/learning/python-data-analysis-2)  
+[Python Statistics Essential Training (Michele Vallisneri)](https://www.linkedin.com/learning/python-statistics-essential-training)  
 
 [**Become a Python Developer**](https://www.linkedin.com/learning/paths/become-a-python-developer)  
 [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)  
