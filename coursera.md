@@ -55,3 +55,10 @@
 [Problem Solving Using Computational Thinking (Michigan)](https://www.coursera.org/learn/compthinking)  
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)  
 [Learning How To Learn for Youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
+
+
+[Lectures on Selected Topics in Classical and Fluid Mechanics](https://www.coursera.org/learn/lectures-on-selected-topics-in-classical-and-fluid-mechanics)  
+[Science Research Foundations](https://www.coursera.org/learn/science-research-foundations)  
+[Processing of Space Monitoring Information](https://www.coursera.org/learn/processing-of-space-monitoring-information)  
+[Algebra & Algorithms](https://www.coursera.org/learn/algebra-and-algorithms)  
+
