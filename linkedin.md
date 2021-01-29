@@ -1,3 +1,5 @@
+[Python Data Analysis (Michele Vallisneri)](https://www.linkedin.com/learning/python-data-analysis-2)  
+
 [**Become a Python Developer**](https://www.linkedin.com/learning/paths/become-a-python-developer)  
 [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)  
 [Learning Python Generators](https://www.linkedin.com/learning/learning-python-generators)  
