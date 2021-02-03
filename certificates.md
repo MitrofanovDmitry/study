@@ -25,8 +25,11 @@
 [Inferential Statistical Analysis with Python](https://coursera.org/share/5100e9aafbc5e881325e6e8787ba922e)  
 [Fitting Statistical Models to Data with Python](https://coursera.org/share/ff4aecf85b977b1c14c674a15b0abe76)  
 
-[**Applied Data Science with Python**](https://www.coursera.org/specializations/data-science-python)  
+[**Applied Data Science with Python Specialization**](https://www.coursera.org/specializations/data-science-python)  
 [Introduction to Data Science in Python](https://coursera.org/share/105a641bd2f6047f4f27640d70e7ff1c)  
 
 [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)  
 [Neural Networks and Deep Learning](https://coursera.org/share/bbef9f064940cde68053ee0ff99faf8e)  
+
+[Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)  
+[Математика и Python для анализа данных](https://coursera.org/share/5858bede591b53268f52cc0475cc6753)  
