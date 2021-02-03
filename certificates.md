@@ -31,5 +31,5 @@
 [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)  
 [Neural Networks and Deep Learning](https://coursera.org/share/bbef9f064940cde68053ee0ff99faf8e)  
 
-[Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)  
+[**Машинное обучение и анализ данных Specialization**](https://www.coursera.org/specializations/machine-learning-data-analysis)  
 [Математика и Python для анализа данных](https://coursera.org/share/5858bede591b53268f52cc0475cc6753)  
