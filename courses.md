@@ -114,3 +114,29 @@
 [**Become a Software Developer**](https://www.linkedin.com/learning/paths/become-a-software-developer)  
 [**Become a Data Analyst**](https://www.linkedin.com/learning/paths/become-a-data-analyst)  
 
+
+### Stepik
+
+[Adaptive Python](https://stepik.org/course/568/info)  
+[Основы программирования на Python](https://stepik.org/course/84854/info)  
+[Deep Learning (семестр 1, осень 2020): базовый поток](https://stepik.org/course/82176/info)  
+[Deep Learning (семестр 2, осень 2020)](https://stepik.org/course/83160/info)  
+[Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/info)  
+[Основы статистики](https://stepik.org/course/76/info)  
+[Основы статистики. Часть 2](https://stepik.org/course/524/info)  
+[Введение в программирование (C++)](https://stepik.org/course/363/info)  
+[Программирование на Python](https://stepik.org/course/67/info)  
+[Python: основы и применение](https://stepik.org/course/512/info)  
+[Нейронные сети](https://stepik.org/course/401/info)  
+[Введение в Data Science и машинное обучение](https://stepik.org/course/4852/info)  
+[Практикум по математике и Python](https://stepik.org/course/3356/info)  
+[Адаптивный тренажер Python](https://stepik.org/course/431/info)  
+["Поколение Python": курс для начинающих](https://stepik.org/course/58852/info)  
+
+
+### Kaggle
+
+[Python](https://www.kaggle.com/learn/python)  
+[Pandas](https://www.kaggle.com/learn/pandas)  
+[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)  
+
