@@ -34,3 +34,4 @@
 
 [**Машинное обучение и анализ данных Specialization**](https://www.coursera.org/specializations/machine-learning-data-analysis)  
 [Математика и Python для анализа данных](https://coursera.org/share/5858bede591b53268f52cc0475cc6753)  
+[Обучение на размеченных данных](https://coursera.org/share/06d0928f9daf58ec5ff94971fc920b0b)  
