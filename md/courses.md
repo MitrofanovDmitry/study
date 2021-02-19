@@ -1,3 +1,8 @@
+[CS229: Machine Learning (Andrew Ng, Stanford)] (https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)  
+[CS230: Deep Learning (Andrew Ng, Stanford)] (https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+[CS224U: Natural Language Understanding (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)  
+[CS234: Reinforcement Learning (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  
+
 [Анализ данных на Python (Хирьянов, МФТИ)](https://www.youtube.com/playlist?list=PLRDzFCPr95fIgPrFFW-0nXT5YH6ZnjRM6)  
 [Алгоритмы и структуры данных на Python 3 (Хирьянов, МФТИ)](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)  
 [Практика программирования на Python 3 (Хирьянов, МФТИ)](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)  
