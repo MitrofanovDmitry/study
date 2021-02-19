@@ -7,19 +7,12 @@
 [Python 3 Programming (Michigan)](https://www.coursera.org/specializations/python-3-programming)  
 [Statistics with Python (Michigan)](https://www.coursera.org/specializations/statistics-with-python)  
 [Applied Data Science with Python (Michigan)](https://www.coursera.org/specializations/data-science-python)  
-[Deep Learning Specialization (Andrew Ng, Stanford)](https://www.coursera.org/specializations/deep-learning)  
+[Deep Learning (Andrew Ng, Stanford)](https://www.coursera.org/specializations/deep-learning)  
 [Искусство разработки на современном C++ (МФТИ)](https://www.coursera.org/specializations/c-plus-plus-modern-development)  
 [Problem Solving Using Computational Thinking (Michigan)](https://www.coursera.org/learn/compthinking)  
-[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)  
-[Learning How To Learn for Youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
+[Learning How to Learn (University of California)](https://www.coursera.org/learn/learning-how-to-learn)  
+[Learning How To Learn for Youth (Arizona State University)](https://www.coursera.org/learn/learning-how-to-learn-youth)  
 
-[Lectures on Selected Topics in Classical and Fluid Mechanics](https://www.coursera.org/learn/lectures-on-selected-topics-in-classical-and-fluid-mechanics)  
-[Science Research Foundations](https://www.coursera.org/learn/science-research-foundations)  
-[Processing of Space Monitoring Information](https://www.coursera.org/learn/processing-of-space-monitoring-information)  
-[Algebra & Algorithms](https://www.coursera.org/learn/algebra-and-algorithms)  
-
-
-### LinkedIn
 
 [Python: Programming Efficiently (Michele Vallisneri)](https://www.linkedin.com/learning/python-programming-efficiently-2)  
 [Python Data Analysis (Michele Vallisneri)](https://www.linkedin.com/learning/python-data-analysis-2)  
@@ -69,8 +62,6 @@
 [**Become a Data Analyst**](https://www.linkedin.com/learning/paths/become-a-data-analyst)  
 
 
-### Stepik
-
 [Adaptive Python](https://stepik.org/course/568/info)  
 [Основы программирования на Python](https://stepik.org/course/84854/info)  
 [Deep Learning (семестр 1, осень 2020): базовый поток](https://stepik.org/course/82176/info)  
@@ -88,9 +79,13 @@
 ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/info)  
 
 
-### Kaggle
-
 [Python](https://www.kaggle.com/learn/python)  
 [Pandas](https://www.kaggle.com/learn/pandas)  
 [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)  
+
+
+[Lectures on Selected Topics in Classical and Fluid Mechanics](https://www.coursera.org/learn/lectures-on-selected-topics-in-classical-and-fluid-mechanics)  
+[Science Research Foundations](https://www.coursera.org/learn/science-research-foundations)  
+[Processing of Space Monitoring Information](https://www.coursera.org/learn/processing-of-space-monitoring-information)  
+[Algebra & Algorithms](https://www.coursera.org/learn/algebra-and-algorithms)  
 
