@@ -12,25 +12,14 @@
 [Problem Solving Using Computational Thinking (Michigan)](https://www.coursera.org/learn/compthinking)  
 [Learning How to Learn (University of California)](https://www.coursera.org/learn/learning-how-to-learn)  
 [Learning How To Learn for Youth (Arizona State University)](https://www.coursera.org/learn/learning-how-to-learn-youth)  
+[Become a Python Developer (linkedin)](https://www.linkedin.com/learning/paths/become-a-python-developer)  
+[Become a Software Developer (linkedin)](https://www.linkedin.com/learning/paths/become-a-software-developer)  
+[Become a Data Analyst (linkedin)](https://www.linkedin.com/learning/paths/become-a-data-analyst)  
 
 
 [Python: Programming Efficiently (Michele Vallisneri)](https://www.linkedin.com/learning/python-programming-efficiently-2)  
 [Python Data Analysis (Michele Vallisneri)](https://www.linkedin.com/learning/python-data-analysis-2)  
 [Python Statistics Essential Training (Michele Vallisneri)](https://www.linkedin.com/learning/python-statistics-essential-training)  
-
-[**Become a Python Developer**](https://www.linkedin.com/learning/paths/become-a-python-developer)  
-[Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)  
-[Learning Python Generators](https://www.linkedin.com/learning/learning-python-generators)  
-[Effective Serialization with Python](https://www.linkedin.com/learning/effective-serialization-with-python)  
-[Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2)  
-[Secure Coding in Python](https://www.linkedin.com/learning/secure-coding-in-python)  
-[Programming Foundations: Real-World Examples](https://www.linkedin.com/learning/programming-foundations-real-world-examples)  
-[Building Tools with Python](https://www.linkedin.com/learning/building-tools-with-python)  
-[Unit Testing in Python](https://www.linkedin.com/learning/unit-testing-in-python)  
-[Python Parallel and Concurrent Programming Part 1](https://www.linkedin.com/learning/python-parallel-and-concurrent-programming-part-1)  
-[Python Parallel and Concurrent Programming Part 2](https://www.linkedin.com/learning/python-parallel-and-concurrent-programming-part-2)  
-[Nail Your Python Interview](https://www.linkedin.com/learning/nail-your-python-interview)  
-
 [Advanced Python](https://www.linkedin.com/learning/advanced-python)  
 [Code Clinic: Python](https://www.linkedin.com/learning/code-clinic-python-2)  
 [Data Ingestion with Python](https://www.linkedin.com/learning/data-ingestion-with-python)  
@@ -58,10 +47,6 @@
 [Python: XML, JSON, and the Web](https://www.linkedin.com/learning/python-xml-json-and-the-web)  
 [Using Python with Excel](https://www.linkedin.com/learning/using-python-with-excel)  
 
-[**Become a Software Developer**](https://www.linkedin.com/learning/paths/become-a-software-developer)  
-[**Become a Data Analyst**](https://www.linkedin.com/learning/paths/become-a-data-analyst)  
-
-
 [Adaptive Python](https://stepik.org/course/568/info)  
 [Основы программирования на Python](https://stepik.org/course/84854/info)  
 [Deep Learning (семестр 1, осень 2020): базовый поток](https://stepik.org/course/82176/info)  
@@ -78,11 +63,9 @@
 [Адаптивный тренажер Python](https://stepik.org/course/431/info)  
 ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/info)  
 
-
 [Python](https://www.kaggle.com/learn/python)  
 [Pandas](https://www.kaggle.com/learn/pandas)  
 [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)  
-
 
 [Lectures on Selected Topics in Classical and Fluid Mechanics](https://www.coursera.org/learn/lectures-on-selected-topics-in-classical-and-fluid-mechanics)  
 [Science Research Foundations](https://www.coursera.org/learn/science-research-foundations)  
