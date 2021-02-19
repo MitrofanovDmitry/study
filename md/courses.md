@@ -1,4 +1,21 @@
+### MIT
+
+[Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019)  
+
+
+### MIPT
+
+[Математика для анализа данных](https://fpmi-edu.ru/math_course)  
+
+
 ### Coursera
+
+[**Машинное обучение: от статистики до нейросетей Specialization**](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)  
+[Основы машинного обучения](https://www.coursera.org/learn/machine-learning-foundations)  
+[Продвинутые методы машинного обучения](https://www.coursera.org/learn/advanced-machine-learning-methods)  
+[Сбор и анализ данных в Python](https://www.coursera.org/learn/data-collection-and-analysis-in-python)  
+[Статистические методы анализа данных](https://www.coursera.org/learn/data-analysis-statistical-methods)  
+[Математическая статистика и А/В тестирование](https://www.coursera.org/learn/mathematical-statistics-and-ab-testing)  
 
 [**Программирование на Python Specialization**](https://www.coursera.org/specializations/programming-in-python)  
 [Погружение в Python](https://www.coursera.org/learn/diving-in-python)  
