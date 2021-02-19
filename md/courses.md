@@ -1,3 +1,10 @@
+Тимофей Хирьянов (МФТИ)  
+Виктор Кантор (МФТИ)  
+Евгений Соколов (ВШЭ)  
+Andrew Ng (Stanford)  
+Leslie Kaelbling (MIT)  
+Lex Fridman (MIT)  
+
 [CS229: Machine Learning (Andrew Ng, Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)  
 [CS230: Deep Learning (Andrew Ng, Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)  
 [CS224U: Natural Language Understanding (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)  
