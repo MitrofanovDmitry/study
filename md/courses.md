@@ -1,11 +1,5 @@
-### MIT
-
-[Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019)  
-
-
-### MIPT
-
-[Математика для анализа данных](https://fpmi-edu.ru/math_course)  
+[Introduction to Machine Learning (MIT)](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019)  
+[Математика для анализа данных (МФТИ)](https://fpmi-edu.ru/math_course)  
 
 
 ### Coursera
