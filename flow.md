@@ -15,6 +15,9 @@ Sal Khan (Khan Academy)
 [Прикладная статистика (Ульянкин Филипп)](https://github.com/FUlyankin/matstat_coursera)  
 [RS School Machine Learning](https://github.com/rolling-scopes-school/ml-intro)  
 
+[Принципы эффективного самообучения для желающих изучить машинное обучение (habr)](https://m.habr.com/ru/post/537326/)  
+[Комбинаторика в Python (habr)](https://habr.com/ru/post/479816/)  
+
 [CS229: Machine Learning (Andrew Ng, Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)  
 [CS230: Deep Learning (Andrew Ng, Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)  
 [CS224U: Natural Language Understanding (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)  
