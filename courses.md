@@ -7,7 +7,13 @@ Leslie Kaelbling (MIT)
 Lex Fridman (MIT)  
 Sal Khan (Khan Academy)  
 
+[Ульянкин Филипп (github)](https://github.com/FUlyankin)  
+[Евгений Соколов (github)](https://github.com/esokolov)  
+[Тимофей Хирьянов (github)](https://github.com/tkhirianov)  
+
 [Промышленное машинное обучение (Космачев Алексей)](https://www.coursera.org/specializations/industrial-machine-learning)  
+[Прикладная статистика (Ульянкин Филипп)](https://github.com/FUlyankin/matstat_coursera)  
+[RS School Machine Learning](https://github.com/rolling-scopes-school/ml-intro)  
 
 [CS229: Machine Learning (Andrew Ng, Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)  
 [CS230: Deep Learning (Andrew Ng, Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)  
