@@ -5,6 +5,9 @@
 Andrew Ng (Stanford)  
 Leslie Kaelbling (MIT)  
 Lex Fridman (MIT)  
+Sal Khan (Khan Academy)  
+
+[Промышленное машинное обучение (Космачев Алексей)](https://www.coursera.org/specializations/industrial-machine-learning)  
 
 [CS229: Machine Learning (Andrew Ng, Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)  
 [CS230: Deep Learning (Andrew Ng, Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)  
