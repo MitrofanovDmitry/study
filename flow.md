@@ -7,6 +7,9 @@ Leslie Kaelbling (MIT)
 Lex Fridman (MIT)  
 Sal Khan (Khan Academy)  
 
+[Titanic - Machine Learning from Disaster (kaggle)](https://www.kaggle.com/c/titanic)  
+[New York City Taxi Trip Duration (kaggle)](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)  
+
 [Ульянкин Филипп (github)](https://github.com/FUlyankin)  
 [Евгений Соколов (github)](https://github.com/esokolov)  
 [Тимофей Хирьянов (github)](https://github.com/tkhirianov)  
