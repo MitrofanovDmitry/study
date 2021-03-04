@@ -13,10 +13,14 @@ Sal Khan (Khan Academy)
 [Ульянкин Филипп (github)](https://github.com/FUlyankin)  
 [Евгений Соколов (github)](https://github.com/esokolov)  
 [Тимофей Хирьянов (github)](https://github.com/tkhirianov)  
+[Jake Vanderplas (github)](https://github.com/jakevdp)  
 
 [Промышленное машинное обучение (Космачев Алексей)](https://www.coursera.org/specializations/industrial-machine-learning)  
 [Прикладная статистика (Ульянкин Филипп)](https://github.com/FUlyankin/matstat_coursera)  
 [RS School Machine Learning](https://github.com/rolling-scopes-school/ml-intro)  
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+[Python Data Science Handbook (notebooks)](https://github.com/jakevdp/PythonDataScienceHandbook)  
 
 [Принципы эффективного самообучения для желающих изучить машинное обучение (habr)](https://m.habr.com/ru/post/537326/)  
 [Комбинаторика в Python (habr)](https://habr.com/ru/post/479816/)  
