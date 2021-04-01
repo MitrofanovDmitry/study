@@ -7,6 +7,12 @@ Leslie Kaelbling (MIT)
 Lex Fridman (MIT)  
 Sal Khan (Khan Academy)  
 
+[sql-ex](https://sql-ex.ru/)  
+[SQL Exercises](https://en.m.wikibooks.org/wiki/SQL_Exercises)  
+[SQL in 10 Minutes, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)  
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science)  
+[Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)  
+
 [Titanic - Machine Learning from Disaster (kaggle)](https://www.kaggle.com/c/titanic)  
 [New York City Taxi Trip Duration (kaggle)](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)  
 
