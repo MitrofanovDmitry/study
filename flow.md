@@ -1,3 +1,5 @@
+[**Машинное обучение: от статистики до нейросетей (Соколов, Ульянкин, ВШЭ)**](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)  
+
 Зимовнов Андрей (ВШЭ)  
 Ульянкин Филипп (ВШЭ)  
 Виктор Кантор (МФТИ)  
@@ -8,8 +10,15 @@ Leslie Kaelbling (MIT)
 Lex Fridman (MIT)  
 Sal Khan (Khan Academy)  
 
+[Зимовнов Андрей (github)](https://github.com/ZEMUSHKA)  
+[Ульянкин Филипп (github)](https://github.com/FUlyankin)  
+[Евгений Соколов (github)](https://github.com/esokolov)  
+[Тимофей Хирьянов (github)](https://github.com/tkhirianov)  
+[Jake Vanderplas (github)](https://github.com/jakevdp)  
+
 [Advanced Machine Learning (HSE)](https://www.coursera.org/specializations/aml)  
 
+### SQL
 [sql-ex](https://sql-ex.ru/)  
 [SQL Exercises](https://en.m.wikibooks.org/wiki/SQL_Exercises)  
 [SQL in 10 Minutes, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)  
@@ -24,14 +33,8 @@ Sal Khan (Khan Academy)
 [Titanic - Machine Learning from Disaster (kaggle)](https://www.kaggle.com/c/titanic)  
 [New York City Taxi Trip Duration (kaggle)](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)  
 
-[Зимовнов Андрей (github)](https://github.com/ZEMUSHKA)  
-[Ульянкин Филипп (github)](https://github.com/FUlyankin)  
-[Евгений Соколов (github)](https://github.com/esokolov)  
-[Тимофей Хирьянов (github)](https://github.com/tkhirianov)  
-[Jake Vanderplas (github)](https://github.com/jakevdp)  
-
 [Промышленное машинное обучение (Космачев Алексей)](https://www.coursera.org/specializations/industrial-machine-learning)  
-[Прикладная статистика (Ульянкин Филипп)](https://github.com/FUlyankin/matstat_coursera)  
+[**Прикладная статистика (Ульянкин Филипп)**](https://github.com/FUlyankin/matstat_coursera)  
 [RS School Machine Learning](https://github.com/rolling-scopes-school/ml-intro)  
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
@@ -49,7 +52,7 @@ Sal Khan (Khan Academy)
 [Алгоритмы и структуры данных на Python 3 (Хирьянов, МФТИ)](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)  
 [Практика программирования на Python 3 (Хирьянов, МФТИ)](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)  
 [Математика для анализа данных (МФТИ)](https://fpmi-edu.ru/math_course)  
-[Машинное обучение: от статистики до нейросетей (Соколов, ВШЭ)](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)  
+
 [Машинное обучение и анализ данных (Яндекс, МФТИ)](https://www.coursera.org/specializations/machine-learning-data-analysis)  
 [Программирование на Python (МФТИ, mail)](https://www.coursera.org/specializations/programming-in-python)  
 [Deep Learning (семестр 1, весна 2021): базовый поток](https://stepik.org/course/91156/info)  
