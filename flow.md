@@ -1,3 +1,4 @@
+Зимовнов Андрей (ВШЭ)  
 Ульянкин Филипп (ВШЭ)  
 Виктор Кантор (МФТИ)  
 Евгений Соколов (ВШЭ)  
@@ -6,6 +7,8 @@ Andrew Ng (Stanford)
 Leslie Kaelbling (MIT)  
 Lex Fridman (MIT)  
 Sal Khan (Khan Academy)  
+
+[Advanced Machine Learning (HSE)](https://www.coursera.org/specializations/aml)  
 
 [sql-ex](https://sql-ex.ru/)  
 [SQL Exercises](https://en.m.wikibooks.org/wiki/SQL_Exercises)  
@@ -21,6 +24,7 @@ Sal Khan (Khan Academy)
 [Titanic - Machine Learning from Disaster (kaggle)](https://www.kaggle.com/c/titanic)  
 [New York City Taxi Trip Duration (kaggle)](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)  
 
+[Зимовнов Андрей (github)](https://github.com/ZEMUSHKA)  
 [Ульянкин Филипп (github)](https://github.com/FUlyankin)  
 [Евгений Соколов (github)](https://github.com/esokolov)  
 [Тимофей Хирьянов (github)](https://github.com/tkhirianov)  
