@@ -7,8 +7,6 @@ Leslie Kaelbling (MIT)
 Lex Fridman (MIT)  
 Sal Khan (Khan Academy)  
 
-[rolling-scopes-school/ml-intro](https://github.com/rolling-scopes-school/ml-intro)  
-
 [sql-ex](https://sql-ex.ru/)  
 [SQL Exercises](https://en.m.wikibooks.org/wiki/SQL_Exercises)  
 [SQL in 10 Minutes, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)  
