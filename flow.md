@@ -1,4 +1,5 @@
-[**Машинное обучение: от статистики до нейросетей (Соколов, Ульянкин, ВШЭ)**](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)  
+[**Машинное обучение (ВШЭ)**](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)  
+[Advanced Machine Learning (HSE)](https://www.coursera.org/specializations/aml)  
 
 Зимовнов Андрей (ВШЭ)  
 Ульянкин Филипп (ВШЭ)  
@@ -16,9 +17,6 @@ Sal Khan (Khan Academy)
 [Тимофей Хирьянов (github)](https://github.com/tkhirianov)  
 [Jake Vanderplas (github)](https://github.com/jakevdp)  
 
-[Advanced Machine Learning (HSE)](https://www.coursera.org/specializations/aml)  
-
-### SQL
 [sql-ex](https://sql-ex.ru/)  
 [SQL Exercises](https://en.m.wikibooks.org/wiki/SQL_Exercises)  
 [SQL in 10 Minutes, Sams Teach Yourself](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073)  
@@ -35,10 +33,10 @@ Sal Khan (Khan Academy)
 
 [Промышленное машинное обучение (Космачев Алексей)](https://www.coursera.org/specializations/industrial-machine-learning)  
 [**Прикладная статистика (Ульянкин Филипп)**](https://github.com/FUlyankin/matstat_coursera)  
-[RS School Machine Learning](https://github.com/rolling-scopes-school/ml-intro)  
+[**RS School Machine Learning**](https://github.com/rolling-scopes-school/ml-intro)  
 
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
-[Python Data Science Handbook (notebooks)](https://github.com/jakevdp/PythonDataScienceHandbook)  
+[**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+[**Python Data Science Handbook (notebooks)**](https://github.com/jakevdp/PythonDataScienceHandbook)  
 
 [Принципы эффективного самообучения для желающих изучить машинное обучение (habr)](https://m.habr.com/ru/post/537326/)  
 [Комбинаторика в Python (habr)](https://habr.com/ru/post/479816/)  
