@@ -1,0 +1,81 @@
+https://www.coursera.org/learn/foundations-big-data-analysis-sql/peer/DqGgk/database-overview
+
+Database Overview
+
+Valentin Aliferov
+2021-Apr-03
+===
+Database: fun
+===
+
+Notes:
+1.
+Column and table descriptions are estimates based on examination of the
+tables, not descriptions from the data sources.
+2.
+Column descriptions of PK, FK, and references are descriptions of assumed
+relationships between tables, not database constraints.
+===
+
+Tables:
+  card_rank  card ranks, probably blackjack
+  card_suit  categories into which the cards of a deck are divided
+  games      info about board games including inventors
+  inventory  info about places where you can buy board games
+===
+
+Table:	card_rank
+
+Columns
+1  rank  string   2-10, Jack, Queen, King, Ace
+2  value tinyint  2-11
+
+Sample
+1  Ace  NULL
+2  2    2
+3  3    3
+===
+
+Table:	card_suit
+
+Columns
+1 suit  string   Clubs, Diamonds, Hearts, Spades
+2 color string   Black, Red
+
+Sample
+1 Clubs     Black
+2 Diamonds  Red
+3 Hearts    Red
+===
+
+Table:  games
+
+Columns
+1  id        int      PK*
+2  name      string   Monopoly, Clue, Risk
+3  inventor  string   the inventor of game
+4  year      string   year of game invention
+5  min_age   tinyint  the age from which you can play it
+
+Sample
+1  1  Monopoly  Elizabeth Magie     1903  8  2  6  19.99
+2  2  Scrabble  Alfred Mosher Butts 1938  8  2  4  17.99
+3  3  Clue      Anthony E. Pratt    1944  8  2  6  9.99
+===
+
+Table:  inventory
+
+Columns
+1  shop   string        shop where you can buy that game
+2  game   string        name of the game
+3  qty    int           quantity available
+4  aisle  tinyint       aisle where you can find that game
+5  price  decimal(5,2)  price at that shop
+
+Sample
+1  Dicey      Monopoly  7   3     17.99
+2  Dicey      Clue      3   NULL  9.99
+3  Board 'Em  Monopoly  11  2     25.00
+===
+===
+
